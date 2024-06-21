@@ -1,0 +1,22 @@
+.Bottle {
+    border: 2px white solid;
+    margin-top: 40px;
+    border-radius: 30px;
+    padding: 10px;
+    grid-template-columns: auto;
+}
+
+.Bottle:hover{
+    background-color: #292929;
+    transition: 0.2s ;
+}
+
+.Bottle img {
+    width: 300px;
+    border-radius: 30px;
+}
+
+.stock{
+    color: red;
+    margin-top: 10px;
+}
